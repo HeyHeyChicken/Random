@@ -5,7 +5,10 @@
 
 **NOVA - Random** is a skill for your [NOVA](//github.com/HeyHeyChicken/NOVA) assistant.<br>
 This skill will allow your assistant roll a die or give you a random number.
-<img src="https://github.com/HeyHeyChicken/NOVA-Random/blob/master/resources/screenshot.jpg" alt="NOVA" width="500">
+
+<br>
+
+<img src="https://github.com/HeyHeyChicken/NOVA-Random/blob/master/resources/screenshot.jpg" alt="NOVA" width="800">
 </div>
 
 <br>
