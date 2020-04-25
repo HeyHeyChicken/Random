@@ -1,0 +1,16 @@
+{
+  "name": "nova-random",
+  "version": "1.0.0",
+  "description": "This skill will allow your assistant roll a die or give you a random number.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyHeyChicken/NOVA-Random.git"
+  },
+  "author": "Antoine Duval",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/HeyHeyChicken/NOVA-Random/issues"
+  },
+  "homepage": "https://github.com/HeyHeyChicken/NOVA-Random#readme"
+}
