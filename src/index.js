@@ -1,5 +1,5 @@
 const LIBRARIES = {
-  Skill: require("../../../Skill")
+  Skill: require("../../Libraries/Skill")
 };
 
 class Random extends LIBRARIES.Skill{
