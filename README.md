@@ -6,7 +6,7 @@ This skill will allow your assistant roll a die or give you a random number.
 
 <br>
 
-<img src="https://github.com/HeyHeyChicken/NOVA-Random/blob/master/resources/screenshot.jpg" alt="NOVA" width="800">
+<img src="https://github.com/HeyHeyChicken/NOVA-Random/blob/master/resources/github-screenshot.jpg" alt="NOVA" width="800">
 </div>
 
 <br>
