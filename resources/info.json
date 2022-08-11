@@ -1,0 +1,10 @@
+{
+	"worksOffline" : true,
+	"description" : {
+		"fr-FR": "Cette compétence permettra à votre assistant de lancer un dé ou de vous donner un nombre aléatoire.",
+		"en-US": "This skill will allow your assistant roll a die or give you a random number."
+	},
+	"language": [
+		"fr-FR"
+	]
+}
