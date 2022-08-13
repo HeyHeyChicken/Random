@@ -1,0 +1,25 @@
+{
+  "name": "Random",
+  "data": [
+    {
+      "intent": "Random.dice",
+      "utterances": [
+        "Roll a die"
+      ],
+      "answers": [
+        "The die landed on %result%.",
+        "%result%"
+      ]
+    },
+    {
+      "intent": "Random.between",
+      "utterances": [
+        "Give me a number between {first|1} and {last|1}",
+        "Give me a random number between {first|1} and {last|1}"
+      ],
+      "answers": [
+        "%result%"
+      ]
+    }
+  ]
+}

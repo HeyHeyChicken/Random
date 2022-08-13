@@ -5,6 +5,7 @@
 		"en-US": "This skill will allow your assistant roll a die or give you a random number."
 	},
 	"language": [
-		"fr-FR"
+		"fr-FR",
+		"en-US"
 	]
 }
